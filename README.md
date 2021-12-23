@@ -1,4 +1,7 @@
 # Flask Sample Blog App 
+ Reference Book: Flask Web Development from Scratch Introduction to Developing Web Applications with Python
+ 
+ Execute following commands:
  
  pipenv shell
  
